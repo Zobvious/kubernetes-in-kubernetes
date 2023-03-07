@@ -237,7 +237,7 @@ admin:
   enabled: true
   image:
     repository: damned01/kvaps/kubernetes-tools
-    tag: v0.13.5
+    tag: latest
     pullPolicy: IfNotPresent
     pullSecrets: []
   replicaCount: 1
