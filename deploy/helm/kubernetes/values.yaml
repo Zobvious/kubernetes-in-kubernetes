@@ -236,7 +236,7 @@ scheduler:
 admin:
   enabled: true
   image:
-    repository: ghcr.io/kvaps/kubernetes-tools
+    repository: damned01/kvaps/kubernetes-tools
     tag: v0.13.5
     pullPolicy: IfNotPresent
     pullSecrets: []
